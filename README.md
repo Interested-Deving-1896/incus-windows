@@ -87,8 +87,8 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | Contributor | Commits |
 |---|---|
 | [@antifob](https://github.com/antifob) | 72 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
 | [@kimfaint](https://github.com/kimfaint) | 5 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 4 |
 | [@MOBergeron](https://github.com/MOBergeron) | 1 |
 <!-- AI:end:contributors -->
 
